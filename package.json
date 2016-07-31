@@ -1,7 +1,7 @@
 {
   "name": "random-cron",
-  "version": "1.0.0",
-  "description": "randomize your cron jobs",
+  "version": "0.1.0",
+  "description": "generate random cron in a humane way",
   "main": "src/random-cron.js",
   "scripts": {
     "test": "mocha"
@@ -11,7 +11,8 @@
     "url": "git+https://github.com/haoliangyu/random-cron.git"
   },
   "keywords": [
-    "cron"
+    "cron",
+    "random"
   ],
   "author": "Haoliang Yu <haholiang.yu@outlook.com>",
   "license": "MIT",
