@@ -2,7 +2,7 @@
   "name": "random-cron",
   "version": "1.0.0",
   "description": "randomize your cron jobs",
-  "main": "src/index.js",
+  "main": "src/random-cron.js",
   "scripts": {
     "test": "mocha"
   },
@@ -21,6 +21,7 @@
   "homepage": "https://github.com/haoliangyu/random-cron#readme",
   "devDependencies": {
     "chai": "^3.5.0",
+    "chai-as-promised": "^5.3.0",
     "eslint": "^2.9.0",
     "eslint-plugin-json": "^1.2.0",
     "gulp": "^3.9.1",
